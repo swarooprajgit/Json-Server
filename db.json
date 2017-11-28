@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "post": "sdfsdfsdfdsjuaijijdsakjdsakjsdajkijdsijsdaijdsaiajijdasijdsjksjkkasj",
+      "image": "fsdfsdf",
+      "author": "dsfgsdf",
+      "title": "sfsdfds",
+      "user_ratings": 0,
+      "id": 18,
+      "category": ""
+    },
+    {
+      "post": "sss",
+      "image": "sss",
+      "author": "dsfgsdf",
+      "title": "ssss",
+      "user_ratings": 0,
+      "id": 19
+    },
+    {
+      "post": "ksfdkdfsk",
+      "image": "sfkdkdfsk",
+      "author": "dsfgsdf",
+      "title": "skddkf",
+      "category": "Tech",
+      "user_ratings": 0,
+      "id": 20
+    },
+    {
+      "post": "jdsjdsjsjd",
+      "image": "sdjsdjsdj",
+      "author": "dsfgsdf",
+      "title": "djdjsdjsd",
+      "category": "politics",
+      "user_ratings": 21,
+      "id": 21
+    },
+    {
+      "post": "politics",
+      "image": "jashajddhas",
+      "author": "dsfgsdf",
+      "title": "politics",
+      "category": "politics",
+      "user_ratings": 22,
+      "id": 22
+    },
+    {
+      "post": "hasfhkasdhkashk5555",
+      "image": "fasfds",
+      "author": "dsfgsdf",
+      "title": "politics 333",
+      "category": "politics",
+      "user_ratings": 0,
+      "id": 24
+    },
+    {
+      "post": "education",
+      "image": "education",
+      "author": "dsfgsdf",
+      "title": "education",
+      "category": "education",
+      "user_ratings": 0,
+      "id": 25
+    }
+  ]
+}
